@@ -1,0 +1,45 @@
+.menuitems li{
+  float:left;
+  width:10%;
+  font-color:black;
+}
+
+.main_content{
+  margin-top: 50px;
+  margin-left: 40px;
+}
+
+.dispic{
+  float:left;
+  padding-top:100px;
+  padding-right:200px;
+}
+.dispic img{
+  width:150px;
+  height:200px;
+}
+
+.section{
+  float:left
+}
+
+.top img{
+  height: 350px;
+  width:100%;
+}
+
+.menu_down{
+  float:left;
+}
+
+.column{
+  float:left;
+  padding-right:50px;
+}
+
+.column h4{
+   alignment:centre;
+}
+.last{
+  float:left;
+}
